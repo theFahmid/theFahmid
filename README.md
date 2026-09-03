@@ -78,35 +78,10 @@ I'm a developer who enjoys turning ideas into **real, usable applications**.
 </p>
 
 
-<!-- ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=theFahmid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theFahmid&layout=compact&hide_border=true&theme=tokyonight" />
-</p> -->
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=theFahmid&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theFahmid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theFahmid&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
